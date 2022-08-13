@@ -1,0 +1,2 @@
+# Introduction-to-Java-Coding-Ninjas
+This repository keeps all the content given in introduction to java course offered by coding ninjas. The course I purchased  was premium, So, it contains some extra things in compare to others. And if you like this repository and want some other courses repo on my GitHub profile, please star this repository and follow me on my social media, you can also direct message me for any doubt or help, I have provided my details in a text file in this repository. Happy Coding!.  
